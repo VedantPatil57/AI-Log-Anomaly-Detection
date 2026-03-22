@@ -37,5 +37,3 @@ Example:
 ## Visualization
 The graph highlights abnormal login spikes using red markers.
 
-## Conclusion
-The model effectively identifies abnormal login behavior and can be used for detecting brute-force attacks.
